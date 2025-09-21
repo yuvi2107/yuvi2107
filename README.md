@@ -46,7 +46,7 @@
 
 ## 📈 Contribution Graph  
 
-![Snake animation](https://github.com/YourUserName/YourUserName/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Yuvi2107/yuvi2107/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
